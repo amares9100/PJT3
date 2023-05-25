@@ -1,7 +1,7 @@
 # movie_project
 
 #### ppt
-
+[movieproject_ppt.pdf](https://github.com/amares9100/PJT3/blob/master/movieproject_ppt.pdf)
 #### 유튜브 링크
 https://www.youtube.com/watch?v=pXpn8ZI7zZU
 
